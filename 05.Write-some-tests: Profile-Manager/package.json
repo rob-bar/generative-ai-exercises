@@ -1,0 +1,16 @@
+{
+  "name": "how-to-test-profile-manager",
+  "version": "1.0.0",
+  "description": "A Typescript exercise",
+  "type": "module",
+  "license": "UNLICENSED",
+  "scripts": {
+    "tsc": "./node_modules/.bin/tsc"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}
