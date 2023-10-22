@@ -5,7 +5,7 @@ Let's do the first exercise all together. No real dev knowledge involved here ye
 Come up with some funny or interesting responses. Be creative, sky is the limit.
 Share your prompt or screenshot with the group via the chat.
 
-Here 👉
+Here 👉 GOOGLE MEET
 
 ### Some Tips:
 

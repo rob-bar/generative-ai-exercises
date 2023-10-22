@@ -8,13 +8,14 @@ So have a look at the exercises and complete/solve or play through them starting
 # Pairing is caring 🤝
 
 It can always be fun to work in "pairing" mode, as developers do it all the time.
-This way we can get to know each other a little bit better and we can help each during the code session.
+This way we can get to know each other a little bit better and we can help each other during the code session.
 
 ### Some Ground Rules👇:
 
 - Do not spoil the exercises (ex: shouting out the answer to the group)
 - If you are stuck, please ask for help.
 - Go and use as many AI tools as you must. ChatGPT, Bard, Bing, etc.
+- Install code AI tools like: [Copilot](https://github.com/features/copilot) or [Amazon Code Whisperer](https://aws.amazon.com/codewhisperer/?trk=9f7ac9e5-4be5-4601-83d1-982e5510f167&sc_channel=ps&ef_id=CjwKCAjwkNOpBhBEEiwAb3Mvvakf6a5wodB15Mq3qc_oxaWY0QKMidOMuWp6luQZABp3V2aaBiHl5xoCdvIQAvD_BwE:G:s&s_kwcid=AL!4422!3!654933570200!e!!g!!amazon%20codewhisperer!19966639614!148446413896)
 - It's not a race
 - Some exercises can have multiple solutions/outcomes, they are meant to inspire
 
@@ -22,15 +23,3 @@ This way we can get to know each other a little bit better and we can help each 
 
 Please join this google meet with your mic off. [LINK TO GOOGLE MEET]
 This will be our chat for sharing funny prompts or for questions later on.
-
-Remember
-
-- Build a game
-- Profile Picture
-- Algorithm
-- Advent Of Code
-- Create UI with ChatGPT features
-- Write tests
-- Something with stickers of cutouts
-- Something with Regex & htmlvalidation
-- Something with Halloween
