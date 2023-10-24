@@ -74,7 +74,7 @@ ping bbc.com
 Great! We can browse the alt-internet in this strange, alternative universe locked inside ChatGPT's language model. Let's have a look at the code on the staffyourtribe website 🤓
 
 ```
-curl http://staffyourtribe.com
+curl https://staffyourtribe.com
 ```
 
 Can we connect to the OpenAI website? Is ChatGPT aware of its own existence?
@@ -102,3 +102,5 @@ curl --header "Content-Type: application/json" --request POST --data '{"message"
 ```
 
 🤯
+
+# Can the chatbot act as some other cool tech things?

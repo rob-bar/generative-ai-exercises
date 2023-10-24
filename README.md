@@ -21,5 +21,12 @@ This way we can get to know each other a little bit better and we can help each 
 
 ### The Google Meet:
 
-Please join this google meet with your mic off. [LINK TO GOOGLE MEET]
-This will be our chat for sharing funny prompts or for questions later on.
+Please join this google meet with your mic off. [This is the link](https://meet.google.com/oaa-baaj-wft) This will be our chat for sharing funny prompts or for questions later on.
+
+Again, if there is something wrong with an exercise or you are stuck, or you have a question. I'll be happy to help you.
+
+Have fun!
+
+And
+
+Happy prompting / coding!

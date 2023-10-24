@@ -16,3 +16,5 @@ For example:
 ### What is the solution to your captcha?
 
 To Begin, get your [input puzzle](./input.txt)
+
+Validate your input [here](https://keen-lebkuchen-c7419b.netlify.app/)
