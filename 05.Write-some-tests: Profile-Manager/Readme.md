@@ -1,7 +1,6 @@
 # Profile manager and write some tests
 
-Ever written some tests? Everyone knows that writing tests for an application can be both slow and pretty hard.
-Can AI help you write some tests for this TS UserProfileManager?
+Ever written some tests? Everyone knows that writing tests for an application can be both slow and pretty hard. Can AI help you write some tests for this TS UserProfileManager?
 
 # Quick and fastest Setup to run the tests
 
